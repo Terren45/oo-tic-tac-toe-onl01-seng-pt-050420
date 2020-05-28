@@ -22,7 +22,7 @@ class TicTacToe
        player_info.to_i - 1
      end
      
-     def move(index, token)
+     def move(index, token = "X")
        @board
      end
        
